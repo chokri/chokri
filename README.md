@@ -2,7 +2,7 @@
 
 Hi! My name is Chokri, I'm a senior Full Stack Web Developer :computer: , Guitar player :guitar: :metal: and CEO of @octavetn :dart: 
 
-Check my [website](https://khalifa.tn) for more informations.
+Check my [blog](https://kaliex.co) for more informations.
 
 ## Contributions
 
