@@ -19,7 +19,7 @@ I write some posts in my personal [blog](https://kaliex.co)
 |06/2021 - present | Lead Developer/DevOps | AWS/Terraform/Python/NodeJS |
 
 ** I was the founder of OCTAVE, I was the clients' cloud architect for computing/Storage strategy.
-My goals was to innovate and bring the newest technologies to my clients with safe and secure solutions.
+My goal was to innovate and bring the newest technologies to my clients with safe and secure solutions.
 
 ## Contributions
 
