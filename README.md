@@ -1,25 +1,41 @@
 # Hello Github
-![](https://github-readme-stats.vercel.app/api?username=chokri&count_private=true&show_icons=true&theme=white&hide_title=true)
+[![Chokri's github stats](https://github-readme-stats.vercel.app/api?username=chokri&theme=jolly&border_radius=10&hide_border=true)](https://github.com/tentacode/github-readme-stats)
 
-Hi! My name is Chokri **Khalifa** (شكري خليفة), I'm a senior **Full Stack** Web Developer and **DevOps** Engineer :computer:, I'm CEO of @octavetn :dart: and IT Consultant in **Paris**
+[![Chokri's github trophy](https://github-profile-trophy.vercel.app/?username=chokri&column=4&theme=radical&no-frame=true)](https://github.com/tentacode/github-profile-trophy)
+
+Hi! My name is Chokri **Khalifa** (شكري خليفة), I'm a senior **Full Stack** Web Developer and **DevOps** Engineer :computer:, Founder of @octavetn :dart: and IT Consultant in **Paris**
 
 I'm also a Guitar & Bass player :guitar: :metal: 
 
 I write some posts in my personal [blog](https://kaliex.co)
 
-## Missions
+``` python
+from datetime import date
 
-| Date  | Role | Technologies |
-| ------- | ------- | ------- |
-| 02/2015 - 07/2018 | CEO** & Tech Lead Architect | GCP/Docker/CakePHP/React/ |
-|01/2019 - 01/2020 | Lead Developer | React/Java/Kubernetes |
-|02/2020 - 04/2020 | Tech Leader DevOps | GCP/Kubernetes/Helm/Symfony/React/RabbitMQ |
-|06/2020 - 10/2020 | Lead Developer | NodeJS/TypeScript/Docker EE/Jenkins |
-|10-2020 - 06/2021 | TechLead DevOps | Nginx/ELK/Ansible/TypeScript/NodeJS/Java |
-|06/2021 - present | Lead Developer/DevOps | AWS/Terraform/Python/NodeJS |
 
-** I was the founder of OCTAVE, I was the clients' cloud architect for computing/Storage strategy.
-My goal was to innovate and bring the newest technologies to my clients with safe and secure solutions.
+class Developer:
+    def __init__(self, name, birthYear):
+        self.name = name
+        self.birthYear = birthYear
+        self.twitter = "@shuck_"
+        self.url = "https://kaliex.co"
+
+    @classmethod
+    def from_birth_year(cls, name, birth_year):
+        return cls(name, date.today().year - birth_year)
+
+    def display_year_birth(self):
+        print(self.name + "'s birth Year is: " + str(self.birthYear))
+
+    def display_work(self):
+        print(f"{self.name} is a full stack developer")
+
+
+chokri = Developer.from_birth_year('Chokri', 1986)
+chokri.display_work()
+chokri.display_year_birth()
+        
+```
 
 ## Contributions
 
