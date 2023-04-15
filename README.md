@@ -9,34 +9,6 @@ I'm also a Guitar & Bass player :guitar: :metal:
 
 I write some posts in my personal [blog](https://kaliex.co)
 
-``` python
-from datetime import date
-
-
-class Developer:
-    def __init__(self, name, birthYear):
-        self.name = name
-        self.birthYear = birthYear
-        self.twitter = "@shuck_"
-        self.url = "https://kaliex.co"
-
-    @classmethod
-    def from_birth_year(cls, name, birth_year):
-        return cls(name, date.today().year - birth_year)
-
-    def display_year_birth(self):
-        print(self.name + "'s birth Year is: " + str(self.birthYear))
-
-    def display_work(self):
-        print(f"{self.name} is a full stack developer")
-
-
-chokri = Developer.from_birth_year('Chokri', 1986)
-chokri.display_work()
-chokri.display_year_birth()
-        
-```
-
 ## Contributions
 
 * CakeDC: Adding Google Recaptcha to users https://github.com/CakeDC/users/pull/710
