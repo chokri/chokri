@@ -1,8 +1,6 @@
 # Hello 👋 My name is Chokri Khalifa
 [![Chokri's github stats](https://github-readme-stats.vercel.app/api?username=chokri&theme=jolly&border_radius=10&hide_border=true)](https://github.com/tentacode/github-readme-stats)
 
-[![Chokri's github trophy](https://github-profile-trophy.vercel.app/?username=chokri&column=4&theme=radical&no-frame=true)](https://github.com/tentacode/github-profile-trophy)
-
 Hi! My name is Chokri **Khalifa** (شكري خليفة), I'm a senior **Full Stack** Web Developer and **DevOps** Engineer :computer:, Founder of @octavetn :dart: and IT Consultant in **Paris**
 
 I'm also a Guitar & Bass player :guitar: :metal: 
