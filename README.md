@@ -1,6 +1,6 @@
 # Hello 👋 My name is Chokri K'
 
-Hi! My name is Chokri **K'**, I'm a senior **Full Stack** Web Developer and **DevOps** Engineer :computer:, Founder of @octavetn :dart: and IT Consultant in **Paris**
+Hi! My name is Chokri **K'**, I'm a senior **Full Stack** Web Developer :computer:, Founder of @octavetn :dart: and IT Consultant in **Paris**
 
 I'm actually learning **Rust** and **Go**, I'm also a Guitar & Bass player :guitar: :metal:, I write some posts in my personal [blog](https://kaliex.co)
 
